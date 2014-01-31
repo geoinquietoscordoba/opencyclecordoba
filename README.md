@@ -1,4 +1,4 @@
 OpenCycleCórdoba
 ================
 
-Repositorio Githuba para a actividad y taller OpenCycleCórdoba
+Repositorio Github para para la actividad y taller OpenCycleCórdoba
